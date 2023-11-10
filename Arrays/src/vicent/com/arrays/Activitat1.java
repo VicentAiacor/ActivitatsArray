@@ -3,7 +3,7 @@ package com.vicent.arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Activitat01 {
+public class Activitat1 {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
