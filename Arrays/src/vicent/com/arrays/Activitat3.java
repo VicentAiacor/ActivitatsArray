@@ -1,4 +1,4 @@
-package tatatatata;
+package vicent.com.arrays;
 
 import java.util.Random;
 import java.util.Scanner;
